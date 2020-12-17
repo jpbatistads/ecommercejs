@@ -2,7 +2,7 @@
 
 --> Exemplo:create-react-app my-react-app
 
-OBS: Após a criação do projeto pode deletar a pasta src
+OBS: Deletar os arquivos da pasta src, deixar apenas o Index.html.
 
 # Instalação das dependências
 
